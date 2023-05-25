@@ -15,7 +15,7 @@ I am a second-year computer science student at the Faculty of Mathematics and In
 
 ## Education
 
-- Bachelor of Science in Computer Science, Faculty of Mathematics and Informatics, University of Bucharest, [Expected Graduation Year]
+- Bachelor of Science in Computer Science, Faculty of Mathematics and Informatics, University of Bucharest, [2024]
 - Relevant coursework: Data Structures, Algorithms, Object-Oriented Programming, Database Management Systems, Software Engineering
 
 
