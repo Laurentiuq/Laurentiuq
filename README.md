@@ -1,5 +1,6 @@
-## Elen síla lúmenn' omentielvo!  🌌
+<!--## Elen síla lúmenn' omentielvo!  🌌
 ## **ᛖᚴᛖᚾ ᛋᛁᛚᚨ ᛚᚢᛗᛖᚾᛁ' ᚩᛗᛖᚾᛏᛖᛁᛚᚡᛟ**  🌠
+-->
 ![giphy](https://github.com/Laurentiuq/Laurentiuq/assets/99676849/f56d3baf-adc0-459c-81de-c8015a787ede)
 <!-- ## About Me
 
